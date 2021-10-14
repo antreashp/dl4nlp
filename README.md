@@ -4,4 +4,4 @@ The pretraining script contains all the possible pretraining schemes used in our
 The finetuning script contains one single finetuning depending on which model you load in from the pretrained models.
 
 note:
-Make sure that both the MuTual and the SWAG dataset are downloaded and present as csv fiels in the right folder.
+Make sure that both the MuTual and the SWAG datasets are downloaded and present as csv fiels in the right folder.
